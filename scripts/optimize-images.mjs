@@ -23,7 +23,7 @@ const manifestPath = path.join(
   'image-manifest.json',
 );
 
-const candidateWidths = [480, 768, 1024, 1440, 1920];
+const candidateWidths = [240, 320, 480, 768, 1024, 1440, 1920];
 const pipelineVersion = 'avif60-webp80-jpeg82-png-v1';
 const supportedSourceExtensions = new Set(['.jpg', '.jpeg', '.png', '.webp']);
 const sourceReferencePattern = /["'`](\/[a-zA-Z0-9_./-]+\.(?:jpe?g|png|webp))["'`]/gi;

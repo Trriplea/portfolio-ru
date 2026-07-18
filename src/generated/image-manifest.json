@@ -5,6 +5,14 @@
     "sources": {
       "avif": [
         {
+          "src": "/generated/images/projects/artel/screen-12.98ce8f3e050c-240.avif",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/artel/screen-12.98ce8f3e050c-320.avif",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/artel/screen-12.98ce8f3e050c-480.avif",
           "width": 480
         },
@@ -27,6 +35,14 @@
       ],
       "fallback": [
         {
+          "src": "/generated/images/projects/artel/screen-12.98ce8f3e050c-240.jpg",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/artel/screen-12.98ce8f3e050c-320.jpg",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/artel/screen-12.98ce8f3e050c-480.jpg",
           "width": 480
         },
@@ -48,6 +64,14 @@
         }
       ],
       "webp": [
+        {
+          "src": "/generated/images/projects/artel/screen-12.98ce8f3e050c-240.webp",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/artel/screen-12.98ce8f3e050c-320.webp",
+          "width": 320
+        },
         {
           "src": "/generated/images/projects/artel/screen-12.98ce8f3e050c-480.webp",
           "width": 480
@@ -78,6 +102,14 @@
     "sources": {
       "avif": [
         {
+          "src": "/generated/images/projects/artel/screen-13.8eefa8f5493a-240.avif",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/artel/screen-13.8eefa8f5493a-320.avif",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/artel/screen-13.8eefa8f5493a-480.avif",
           "width": 480
         },
@@ -100,6 +132,14 @@
       ],
       "fallback": [
         {
+          "src": "/generated/images/projects/artel/screen-13.8eefa8f5493a-240.jpg",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/artel/screen-13.8eefa8f5493a-320.jpg",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/artel/screen-13.8eefa8f5493a-480.jpg",
           "width": 480
         },
@@ -121,6 +161,14 @@
         }
       ],
       "webp": [
+        {
+          "src": "/generated/images/projects/artel/screen-13.8eefa8f5493a-240.webp",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/artel/screen-13.8eefa8f5493a-320.webp",
+          "width": 320
+        },
         {
           "src": "/generated/images/projects/artel/screen-13.8eefa8f5493a-480.webp",
           "width": 480
@@ -151,6 +199,14 @@
     "sources": {
       "avif": [
         {
+          "src": "/generated/images/projects/artel/screen-14.99a5e9cc2a8e-240.avif",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/artel/screen-14.99a5e9cc2a8e-320.avif",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/artel/screen-14.99a5e9cc2a8e-480.avif",
           "width": 480
         },
@@ -173,6 +229,14 @@
       ],
       "fallback": [
         {
+          "src": "/generated/images/projects/artel/screen-14.99a5e9cc2a8e-240.jpg",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/artel/screen-14.99a5e9cc2a8e-320.jpg",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/artel/screen-14.99a5e9cc2a8e-480.jpg",
           "width": 480
         },
@@ -194,6 +258,14 @@
         }
       ],
       "webp": [
+        {
+          "src": "/generated/images/projects/artel/screen-14.99a5e9cc2a8e-240.webp",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/artel/screen-14.99a5e9cc2a8e-320.webp",
+          "width": 320
+        },
         {
           "src": "/generated/images/projects/artel/screen-14.99a5e9cc2a8e-480.webp",
           "width": 480
@@ -224,6 +296,14 @@
     "sources": {
       "avif": [
         {
+          "src": "/generated/images/projects/artel/screen-15.017855d6570d-240.avif",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/artel/screen-15.017855d6570d-320.avif",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/artel/screen-15.017855d6570d-480.avif",
           "width": 480
         },
@@ -246,6 +326,14 @@
       ],
       "fallback": [
         {
+          "src": "/generated/images/projects/artel/screen-15.017855d6570d-240.jpg",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/artel/screen-15.017855d6570d-320.jpg",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/artel/screen-15.017855d6570d-480.jpg",
           "width": 480
         },
@@ -267,6 +355,14 @@
         }
       ],
       "webp": [
+        {
+          "src": "/generated/images/projects/artel/screen-15.017855d6570d-240.webp",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/artel/screen-15.017855d6570d-320.webp",
+          "width": 320
+        },
         {
           "src": "/generated/images/projects/artel/screen-15.017855d6570d-480.webp",
           "width": 480
@@ -297,6 +393,14 @@
     "sources": {
       "avif": [
         {
+          "src": "/generated/images/projects/artel/screen-16.7e2cbe325a2e-240.avif",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/artel/screen-16.7e2cbe325a2e-320.avif",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/artel/screen-16.7e2cbe325a2e-480.avif",
           "width": 480
         },
@@ -319,6 +423,14 @@
       ],
       "fallback": [
         {
+          "src": "/generated/images/projects/artel/screen-16.7e2cbe325a2e-240.jpg",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/artel/screen-16.7e2cbe325a2e-320.jpg",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/artel/screen-16.7e2cbe325a2e-480.jpg",
           "width": 480
         },
@@ -340,6 +452,14 @@
         }
       ],
       "webp": [
+        {
+          "src": "/generated/images/projects/artel/screen-16.7e2cbe325a2e-240.webp",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/artel/screen-16.7e2cbe325a2e-320.webp",
+          "width": 320
+        },
         {
           "src": "/generated/images/projects/artel/screen-16.7e2cbe325a2e-480.webp",
           "width": 480
@@ -370,6 +490,14 @@
     "sources": {
       "avif": [
         {
+          "src": "/generated/images/projects/artel/screen-17.4a7fe11cb32c-240.avif",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/artel/screen-17.4a7fe11cb32c-320.avif",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/artel/screen-17.4a7fe11cb32c-480.avif",
           "width": 480
         },
@@ -392,6 +520,14 @@
       ],
       "fallback": [
         {
+          "src": "/generated/images/projects/artel/screen-17.4a7fe11cb32c-240.jpg",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/artel/screen-17.4a7fe11cb32c-320.jpg",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/artel/screen-17.4a7fe11cb32c-480.jpg",
           "width": 480
         },
@@ -413,6 +549,14 @@
         }
       ],
       "webp": [
+        {
+          "src": "/generated/images/projects/artel/screen-17.4a7fe11cb32c-240.webp",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/artel/screen-17.4a7fe11cb32c-320.webp",
+          "width": 320
+        },
         {
           "src": "/generated/images/projects/artel/screen-17.4a7fe11cb32c-480.webp",
           "width": 480
@@ -443,6 +587,14 @@
     "sources": {
       "avif": [
         {
+          "src": "/generated/images/projects/artel/screen-18.3158652d1854-240.avif",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/artel/screen-18.3158652d1854-320.avif",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/artel/screen-18.3158652d1854-480.avif",
           "width": 480
         },
@@ -465,6 +617,14 @@
       ],
       "fallback": [
         {
+          "src": "/generated/images/projects/artel/screen-18.3158652d1854-240.jpg",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/artel/screen-18.3158652d1854-320.jpg",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/artel/screen-18.3158652d1854-480.jpg",
           "width": 480
         },
@@ -486,6 +646,14 @@
         }
       ],
       "webp": [
+        {
+          "src": "/generated/images/projects/artel/screen-18.3158652d1854-240.webp",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/artel/screen-18.3158652d1854-320.webp",
+          "width": 320
+        },
         {
           "src": "/generated/images/projects/artel/screen-18.3158652d1854-480.webp",
           "width": 480
@@ -516,6 +684,14 @@
     "sources": {
       "avif": [
         {
+          "src": "/generated/images/projects/birdie/about.8a0f95c25b4c-240.avif",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/birdie/about.8a0f95c25b4c-320.avif",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/birdie/about.8a0f95c25b4c-480.avif",
           "width": 480
         },
@@ -538,6 +714,14 @@
       ],
       "fallback": [
         {
+          "src": "/generated/images/projects/birdie/about.8a0f95c25b4c-240.jpg",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/birdie/about.8a0f95c25b4c-320.jpg",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/birdie/about.8a0f95c25b4c-480.jpg",
           "width": 480
         },
@@ -559,6 +743,14 @@
         }
       ],
       "webp": [
+        {
+          "src": "/generated/images/projects/birdie/about.8a0f95c25b4c-240.webp",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/birdie/about.8a0f95c25b4c-320.webp",
+          "width": 320
+        },
         {
           "src": "/generated/images/projects/birdie/about.8a0f95c25b4c-480.webp",
           "width": 480
@@ -589,6 +781,14 @@
     "sources": {
       "avif": [
         {
+          "src": "/generated/images/projects/birdie/certificates.0fd025a7ecc3-240.avif",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/birdie/certificates.0fd025a7ecc3-320.avif",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/birdie/certificates.0fd025a7ecc3-480.avif",
           "width": 480
         },
@@ -611,6 +811,14 @@
       ],
       "fallback": [
         {
+          "src": "/generated/images/projects/birdie/certificates.0fd025a7ecc3-240.jpg",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/birdie/certificates.0fd025a7ecc3-320.jpg",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/birdie/certificates.0fd025a7ecc3-480.jpg",
           "width": 480
         },
@@ -632,6 +840,14 @@
         }
       ],
       "webp": [
+        {
+          "src": "/generated/images/projects/birdie/certificates.0fd025a7ecc3-240.webp",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/birdie/certificates.0fd025a7ecc3-320.webp",
+          "width": 320
+        },
         {
           "src": "/generated/images/projects/birdie/certificates.0fd025a7ecc3-480.webp",
           "width": 480
@@ -662,6 +878,14 @@
     "sources": {
       "avif": [
         {
+          "src": "/generated/images/projects/birdie/coloring.0a0f0f22a739-240.avif",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/birdie/coloring.0a0f0f22a739-320.avif",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/birdie/coloring.0a0f0f22a739-480.avif",
           "width": 480
         },
@@ -684,6 +908,14 @@
       ],
       "fallback": [
         {
+          "src": "/generated/images/projects/birdie/coloring.0a0f0f22a739-240.jpg",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/birdie/coloring.0a0f0f22a739-320.jpg",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/birdie/coloring.0a0f0f22a739-480.jpg",
           "width": 480
         },
@@ -705,6 +937,14 @@
         }
       ],
       "webp": [
+        {
+          "src": "/generated/images/projects/birdie/coloring.0a0f0f22a739-240.webp",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/birdie/coloring.0a0f0f22a739-320.webp",
+          "width": 320
+        },
         {
           "src": "/generated/images/projects/birdie/coloring.0a0f0f22a739-480.webp",
           "width": 480
@@ -735,6 +975,14 @@
     "sources": {
       "avif": [
         {
+          "src": "/generated/images/projects/birdie/consultation.1052af58a286-240.avif",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/birdie/consultation.1052af58a286-320.avif",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/birdie/consultation.1052af58a286-480.avif",
           "width": 480
         },
@@ -757,6 +1005,14 @@
       ],
       "fallback": [
         {
+          "src": "/generated/images/projects/birdie/consultation.1052af58a286-240.jpg",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/birdie/consultation.1052af58a286-320.jpg",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/birdie/consultation.1052af58a286-480.jpg",
           "width": 480
         },
@@ -778,6 +1034,14 @@
         }
       ],
       "webp": [
+        {
+          "src": "/generated/images/projects/birdie/consultation.1052af58a286-240.webp",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/birdie/consultation.1052af58a286-320.webp",
+          "width": 320
+        },
         {
           "src": "/generated/images/projects/birdie/consultation.1052af58a286-480.webp",
           "width": 480
@@ -808,6 +1072,14 @@
     "sources": {
       "avif": [
         {
+          "src": "/generated/images/projects/birdie/cover.7592db7a9ba1-240.avif",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/birdie/cover.7592db7a9ba1-320.avif",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/birdie/cover.7592db7a9ba1-480.avif",
           "width": 480
         },
@@ -830,6 +1102,14 @@
       ],
       "fallback": [
         {
+          "src": "/generated/images/projects/birdie/cover.7592db7a9ba1-240.jpg",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/birdie/cover.7592db7a9ba1-320.jpg",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/birdie/cover.7592db7a9ba1-480.jpg",
           "width": 480
         },
@@ -851,6 +1131,14 @@
         }
       ],
       "webp": [
+        {
+          "src": "/generated/images/projects/birdie/cover.7592db7a9ba1-240.webp",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/birdie/cover.7592db7a9ba1-320.webp",
+          "width": 320
+        },
         {
           "src": "/generated/images/projects/birdie/cover.7592db7a9ba1-480.webp",
           "width": 480
@@ -881,6 +1169,14 @@
     "sources": {
       "avif": [
         {
+          "src": "/generated/images/projects/birdie/footer.d9deecc69c17-240.avif",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/birdie/footer.d9deecc69c17-320.avif",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/birdie/footer.d9deecc69c17-480.avif",
           "width": 480
         },
@@ -903,6 +1199,14 @@
       ],
       "fallback": [
         {
+          "src": "/generated/images/projects/birdie/footer.d9deecc69c17-240.jpg",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/birdie/footer.d9deecc69c17-320.jpg",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/birdie/footer.d9deecc69c17-480.jpg",
           "width": 480
         },
@@ -924,6 +1228,14 @@
         }
       ],
       "webp": [
+        {
+          "src": "/generated/images/projects/birdie/footer.d9deecc69c17-240.webp",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/birdie/footer.d9deecc69c17-320.webp",
+          "width": 320
+        },
         {
           "src": "/generated/images/projects/birdie/footer.d9deecc69c17-480.webp",
           "width": 480
@@ -954,6 +1266,14 @@
     "sources": {
       "avif": [
         {
+          "src": "/generated/images/projects/birdie/haircuts.2e73bd5cec21-240.avif",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/birdie/haircuts.2e73bd5cec21-320.avif",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/birdie/haircuts.2e73bd5cec21-480.avif",
           "width": 480
         },
@@ -976,6 +1296,14 @@
       ],
       "fallback": [
         {
+          "src": "/generated/images/projects/birdie/haircuts.2e73bd5cec21-240.jpg",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/birdie/haircuts.2e73bd5cec21-320.jpg",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/birdie/haircuts.2e73bd5cec21-480.jpg",
           "width": 480
         },
@@ -997,6 +1325,14 @@
         }
       ],
       "webp": [
+        {
+          "src": "/generated/images/projects/birdie/haircuts.2e73bd5cec21-240.webp",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/birdie/haircuts.2e73bd5cec21-320.webp",
+          "width": 320
+        },
         {
           "src": "/generated/images/projects/birdie/haircuts.2e73bd5cec21-480.webp",
           "width": 480
@@ -1027,6 +1363,14 @@
     "sources": {
       "avif": [
         {
+          "src": "/generated/images/projects/birdie/services.a0971862f6be-240.avif",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/birdie/services.a0971862f6be-320.avif",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/birdie/services.a0971862f6be-480.avif",
           "width": 480
         },
@@ -1049,6 +1393,14 @@
       ],
       "fallback": [
         {
+          "src": "/generated/images/projects/birdie/services.a0971862f6be-240.jpg",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/birdie/services.a0971862f6be-320.jpg",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/birdie/services.a0971862f6be-480.jpg",
           "width": 480
         },
@@ -1070,6 +1422,14 @@
         }
       ],
       "webp": [
+        {
+          "src": "/generated/images/projects/birdie/services.a0971862f6be-240.webp",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/birdie/services.a0971862f6be-320.webp",
+          "width": 320
+        },
         {
           "src": "/generated/images/projects/birdie/services.a0971862f6be-480.webp",
           "width": 480
@@ -1100,6 +1460,14 @@
     "sources": {
       "avif": [
         {
+          "src": "/generated/images/projects/birdie/sets.0003a70233df-240.avif",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/birdie/sets.0003a70233df-320.avif",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/birdie/sets.0003a70233df-480.avif",
           "width": 480
         },
@@ -1122,6 +1490,14 @@
       ],
       "fallback": [
         {
+          "src": "/generated/images/projects/birdie/sets.0003a70233df-240.jpg",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/birdie/sets.0003a70233df-320.jpg",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/birdie/sets.0003a70233df-480.jpg",
           "width": 480
         },
@@ -1143,6 +1519,14 @@
         }
       ],
       "webp": [
+        {
+          "src": "/generated/images/projects/birdie/sets.0003a70233df-240.webp",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/birdie/sets.0003a70233df-320.webp",
+          "width": 320
+        },
         {
           "src": "/generated/images/projects/birdie/sets.0003a70233df-480.webp",
           "width": 480
@@ -1173,6 +1557,14 @@
     "sources": {
       "avif": [
         {
+          "src": "/generated/images/projects/flamebaker-cover.bf4f08c2ba5c-240.avif",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/flamebaker-cover.bf4f08c2ba5c-320.avif",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/flamebaker-cover.bf4f08c2ba5c-480.avif",
           "width": 480
         },
@@ -1191,6 +1583,14 @@
       ],
       "fallback": [
         {
+          "src": "/generated/images/projects/flamebaker-cover.bf4f08c2ba5c-240.png",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/flamebaker-cover.bf4f08c2ba5c-320.png",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/flamebaker-cover.bf4f08c2ba5c-480.png",
           "width": 480
         },
@@ -1208,6 +1608,14 @@
         }
       ],
       "webp": [
+        {
+          "src": "/generated/images/projects/flamebaker-cover.bf4f08c2ba5c-240.webp",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/flamebaker-cover.bf4f08c2ba5c-320.webp",
+          "width": 320
+        },
         {
           "src": "/generated/images/projects/flamebaker-cover.bf4f08c2ba5c-480.webp",
           "width": 480
@@ -1234,6 +1642,14 @@
     "sources": {
       "avif": [
         {
+          "src": "/generated/images/projects/flamebaker/screen-20.069dca1f36ed-240.avif",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/flamebaker/screen-20.069dca1f36ed-320.avif",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/flamebaker/screen-20.069dca1f36ed-480.avif",
           "width": 480
         },
@@ -1256,6 +1672,14 @@
       ],
       "fallback": [
         {
+          "src": "/generated/images/projects/flamebaker/screen-20.069dca1f36ed-240.jpg",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/flamebaker/screen-20.069dca1f36ed-320.jpg",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/flamebaker/screen-20.069dca1f36ed-480.jpg",
           "width": 480
         },
@@ -1277,6 +1701,14 @@
         }
       ],
       "webp": [
+        {
+          "src": "/generated/images/projects/flamebaker/screen-20.069dca1f36ed-240.webp",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/flamebaker/screen-20.069dca1f36ed-320.webp",
+          "width": 320
+        },
         {
           "src": "/generated/images/projects/flamebaker/screen-20.069dca1f36ed-480.webp",
           "width": 480
@@ -1307,6 +1739,14 @@
     "sources": {
       "avif": [
         {
+          "src": "/generated/images/projects/flamebaker/screen-21.b81d0cf12549-240.avif",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/flamebaker/screen-21.b81d0cf12549-320.avif",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/flamebaker/screen-21.b81d0cf12549-480.avif",
           "width": 480
         },
@@ -1329,6 +1769,14 @@
       ],
       "fallback": [
         {
+          "src": "/generated/images/projects/flamebaker/screen-21.b81d0cf12549-240.jpg",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/flamebaker/screen-21.b81d0cf12549-320.jpg",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/flamebaker/screen-21.b81d0cf12549-480.jpg",
           "width": 480
         },
@@ -1350,6 +1798,14 @@
         }
       ],
       "webp": [
+        {
+          "src": "/generated/images/projects/flamebaker/screen-21.b81d0cf12549-240.webp",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/flamebaker/screen-21.b81d0cf12549-320.webp",
+          "width": 320
+        },
         {
           "src": "/generated/images/projects/flamebaker/screen-21.b81d0cf12549-480.webp",
           "width": 480
@@ -1380,6 +1836,14 @@
     "sources": {
       "avif": [
         {
+          "src": "/generated/images/projects/flamebaker/screen-22.8b80a2966ad2-240.avif",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/flamebaker/screen-22.8b80a2966ad2-320.avif",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/flamebaker/screen-22.8b80a2966ad2-480.avif",
           "width": 480
         },
@@ -1402,6 +1866,14 @@
       ],
       "fallback": [
         {
+          "src": "/generated/images/projects/flamebaker/screen-22.8b80a2966ad2-240.jpg",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/flamebaker/screen-22.8b80a2966ad2-320.jpg",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/flamebaker/screen-22.8b80a2966ad2-480.jpg",
           "width": 480
         },
@@ -1423,6 +1895,14 @@
         }
       ],
       "webp": [
+        {
+          "src": "/generated/images/projects/flamebaker/screen-22.8b80a2966ad2-240.webp",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/flamebaker/screen-22.8b80a2966ad2-320.webp",
+          "width": 320
+        },
         {
           "src": "/generated/images/projects/flamebaker/screen-22.8b80a2966ad2-480.webp",
           "width": 480
@@ -1453,6 +1933,14 @@
     "sources": {
       "avif": [
         {
+          "src": "/generated/images/projects/toto-cover.982c33c131e9-240.avif",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/toto-cover.982c33c131e9-320.avif",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/toto-cover.982c33c131e9-480.avif",
           "width": 480
         },
@@ -1471,6 +1959,14 @@
       ],
       "fallback": [
         {
+          "src": "/generated/images/projects/toto-cover.982c33c131e9-240.png",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/toto-cover.982c33c131e9-320.png",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/toto-cover.982c33c131e9-480.png",
           "width": 480
         },
@@ -1488,6 +1984,14 @@
         }
       ],
       "webp": [
+        {
+          "src": "/generated/images/projects/toto-cover.982c33c131e9-240.webp",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/toto-cover.982c33c131e9-320.webp",
+          "width": 320
+        },
         {
           "src": "/generated/images/projects/toto-cover.982c33c131e9-480.webp",
           "width": 480
@@ -1514,6 +2018,14 @@
     "sources": {
       "avif": [
         {
+          "src": "/generated/images/projects/toto/screen-02.541329a9cd0d-240.avif",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/toto/screen-02.541329a9cd0d-320.avif",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/toto/screen-02.541329a9cd0d-480.avif",
           "width": 480
         },
@@ -1536,6 +2048,14 @@
       ],
       "fallback": [
         {
+          "src": "/generated/images/projects/toto/screen-02.541329a9cd0d-240.jpg",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/toto/screen-02.541329a9cd0d-320.jpg",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/toto/screen-02.541329a9cd0d-480.jpg",
           "width": 480
         },
@@ -1557,6 +2077,14 @@
         }
       ],
       "webp": [
+        {
+          "src": "/generated/images/projects/toto/screen-02.541329a9cd0d-240.webp",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/toto/screen-02.541329a9cd0d-320.webp",
+          "width": 320
+        },
         {
           "src": "/generated/images/projects/toto/screen-02.541329a9cd0d-480.webp",
           "width": 480
@@ -1587,6 +2115,14 @@
     "sources": {
       "avif": [
         {
+          "src": "/generated/images/projects/toto/screen-03.b9601e93e0d5-240.avif",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/toto/screen-03.b9601e93e0d5-320.avif",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/toto/screen-03.b9601e93e0d5-480.avif",
           "width": 480
         },
@@ -1609,6 +2145,14 @@
       ],
       "fallback": [
         {
+          "src": "/generated/images/projects/toto/screen-03.b9601e93e0d5-240.jpg",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/toto/screen-03.b9601e93e0d5-320.jpg",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/toto/screen-03.b9601e93e0d5-480.jpg",
           "width": 480
         },
@@ -1630,6 +2174,14 @@
         }
       ],
       "webp": [
+        {
+          "src": "/generated/images/projects/toto/screen-03.b9601e93e0d5-240.webp",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/toto/screen-03.b9601e93e0d5-320.webp",
+          "width": 320
+        },
         {
           "src": "/generated/images/projects/toto/screen-03.b9601e93e0d5-480.webp",
           "width": 480
@@ -1660,6 +2212,14 @@
     "sources": {
       "avif": [
         {
+          "src": "/generated/images/projects/toto/screen-04.24fd35dee195-240.avif",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/toto/screen-04.24fd35dee195-320.avif",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/toto/screen-04.24fd35dee195-480.avif",
           "width": 480
         },
@@ -1682,6 +2242,14 @@
       ],
       "fallback": [
         {
+          "src": "/generated/images/projects/toto/screen-04.24fd35dee195-240.jpg",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/toto/screen-04.24fd35dee195-320.jpg",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/toto/screen-04.24fd35dee195-480.jpg",
           "width": 480
         },
@@ -1703,6 +2271,14 @@
         }
       ],
       "webp": [
+        {
+          "src": "/generated/images/projects/toto/screen-04.24fd35dee195-240.webp",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/toto/screen-04.24fd35dee195-320.webp",
+          "width": 320
+        },
         {
           "src": "/generated/images/projects/toto/screen-04.24fd35dee195-480.webp",
           "width": 480
@@ -1733,6 +2309,14 @@
     "sources": {
       "avif": [
         {
+          "src": "/generated/images/projects/toto/screen-05.064e4a8c1ea5-240.avif",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/toto/screen-05.064e4a8c1ea5-320.avif",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/toto/screen-05.064e4a8c1ea5-480.avif",
           "width": 480
         },
@@ -1755,6 +2339,14 @@
       ],
       "fallback": [
         {
+          "src": "/generated/images/projects/toto/screen-05.064e4a8c1ea5-240.jpg",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/toto/screen-05.064e4a8c1ea5-320.jpg",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/toto/screen-05.064e4a8c1ea5-480.jpg",
           "width": 480
         },
@@ -1776,6 +2368,14 @@
         }
       ],
       "webp": [
+        {
+          "src": "/generated/images/projects/toto/screen-05.064e4a8c1ea5-240.webp",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/toto/screen-05.064e4a8c1ea5-320.webp",
+          "width": 320
+        },
         {
           "src": "/generated/images/projects/toto/screen-05.064e4a8c1ea5-480.webp",
           "width": 480
@@ -1806,6 +2406,14 @@
     "sources": {
       "avif": [
         {
+          "src": "/generated/images/projects/toto/screen-06.215832d71619-240.avif",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/toto/screen-06.215832d71619-320.avif",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/toto/screen-06.215832d71619-480.avif",
           "width": 480
         },
@@ -1828,6 +2436,14 @@
       ],
       "fallback": [
         {
+          "src": "/generated/images/projects/toto/screen-06.215832d71619-240.jpg",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/toto/screen-06.215832d71619-320.jpg",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/toto/screen-06.215832d71619-480.jpg",
           "width": 480
         },
@@ -1849,6 +2465,14 @@
         }
       ],
       "webp": [
+        {
+          "src": "/generated/images/projects/toto/screen-06.215832d71619-240.webp",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/toto/screen-06.215832d71619-320.webp",
+          "width": 320
+        },
         {
           "src": "/generated/images/projects/toto/screen-06.215832d71619-480.webp",
           "width": 480
@@ -1879,6 +2503,14 @@
     "sources": {
       "avif": [
         {
+          "src": "/generated/images/projects/toto/screen-07.42c54c557922-240.avif",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/toto/screen-07.42c54c557922-320.avif",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/toto/screen-07.42c54c557922-480.avif",
           "width": 480
         },
@@ -1901,6 +2533,14 @@
       ],
       "fallback": [
         {
+          "src": "/generated/images/projects/toto/screen-07.42c54c557922-240.jpg",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/toto/screen-07.42c54c557922-320.jpg",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/toto/screen-07.42c54c557922-480.jpg",
           "width": 480
         },
@@ -1922,6 +2562,14 @@
         }
       ],
       "webp": [
+        {
+          "src": "/generated/images/projects/toto/screen-07.42c54c557922-240.webp",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/toto/screen-07.42c54c557922-320.webp",
+          "width": 320
+        },
         {
           "src": "/generated/images/projects/toto/screen-07.42c54c557922-480.webp",
           "width": 480
@@ -1952,6 +2600,14 @@
     "sources": {
       "avif": [
         {
+          "src": "/generated/images/projects/toto/screen-08.1a6b0fda2c4d-240.avif",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/toto/screen-08.1a6b0fda2c4d-320.avif",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/toto/screen-08.1a6b0fda2c4d-480.avif",
           "width": 480
         },
@@ -1974,6 +2630,14 @@
       ],
       "fallback": [
         {
+          "src": "/generated/images/projects/toto/screen-08.1a6b0fda2c4d-240.jpg",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/toto/screen-08.1a6b0fda2c4d-320.jpg",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/toto/screen-08.1a6b0fda2c4d-480.jpg",
           "width": 480
         },
@@ -1995,6 +2659,14 @@
         }
       ],
       "webp": [
+        {
+          "src": "/generated/images/projects/toto/screen-08.1a6b0fda2c4d-240.webp",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/toto/screen-08.1a6b0fda2c4d-320.webp",
+          "width": 320
+        },
         {
           "src": "/generated/images/projects/toto/screen-08.1a6b0fda2c4d-480.webp",
           "width": 480
@@ -2025,6 +2697,14 @@
     "sources": {
       "avif": [
         {
+          "src": "/generated/images/projects/toto/screen-09.65b7f2bc3b35-240.avif",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/toto/screen-09.65b7f2bc3b35-320.avif",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/toto/screen-09.65b7f2bc3b35-480.avif",
           "width": 480
         },
@@ -2047,6 +2727,14 @@
       ],
       "fallback": [
         {
+          "src": "/generated/images/projects/toto/screen-09.65b7f2bc3b35-240.jpg",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/toto/screen-09.65b7f2bc3b35-320.jpg",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/toto/screen-09.65b7f2bc3b35-480.jpg",
           "width": 480
         },
@@ -2068,6 +2756,14 @@
         }
       ],
       "webp": [
+        {
+          "src": "/generated/images/projects/toto/screen-09.65b7f2bc3b35-240.webp",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/toto/screen-09.65b7f2bc3b35-320.webp",
+          "width": 320
+        },
         {
           "src": "/generated/images/projects/toto/screen-09.65b7f2bc3b35-480.webp",
           "width": 480
@@ -2098,6 +2794,14 @@
     "sources": {
       "avif": [
         {
+          "src": "/generated/images/projects/toto/screen-10.da8b981889bc-240.avif",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/toto/screen-10.da8b981889bc-320.avif",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/toto/screen-10.da8b981889bc-480.avif",
           "width": 480
         },
@@ -2120,6 +2824,14 @@
       ],
       "fallback": [
         {
+          "src": "/generated/images/projects/toto/screen-10.da8b981889bc-240.jpg",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/toto/screen-10.da8b981889bc-320.jpg",
+          "width": 320
+        },
+        {
           "src": "/generated/images/projects/toto/screen-10.da8b981889bc-480.jpg",
           "width": 480
         },
@@ -2141,6 +2853,14 @@
         }
       ],
       "webp": [
+        {
+          "src": "/generated/images/projects/toto/screen-10.da8b981889bc-240.webp",
+          "width": 240
+        },
+        {
+          "src": "/generated/images/projects/toto/screen-10.da8b981889bc-320.webp",
+          "width": 320
+        },
         {
           "src": "/generated/images/projects/toto/screen-10.da8b981889bc-480.webp",
           "width": 480

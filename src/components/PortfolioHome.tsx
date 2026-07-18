@@ -329,8 +329,9 @@ const PortfolioIndex = () => {
                         alt={project.imageAlt ?? project.title}
                         className={`${project.ratio ?? 'aspect-[4/5]'} ${project.mobileRatio ?? ''} w-full ${project.imageClassName ?? 'object-cover'} transition-[filter] duration-300 min-[501px]:group-hover:grayscale max-[500px]:transition-none`}
                         decoding="async"
-                        fetchPriority={isPriorityProjectImage ? 'high' : 'auto'}
-                        loading="eager"
+                        deferUntilNearViewport={!isPriorityProjectImage}
+                        fetchPriority={isPriorityProjectImage ? 'high' : 'low'}
+                        loading={isPriorityProjectImage ? 'eager' : 'lazy'}
                         sizes="(min-width: 1026px) 32vw, (min-width: 501px) calc(100vw - 320px), 31vw"
                         src={project.imageUrl}
                       />

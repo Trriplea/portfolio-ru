@@ -1,4 +1,10 @@
-import type { CSSProperties, ImgHTMLAttributes } from 'react';
+import {
+  useEffect,
+  useRef,
+  useState,
+  type CSSProperties,
+  type ImgHTMLAttributes,
+} from 'react';
 import imageManifestData from '../generated/image-manifest.json';
 import { withBasePath } from '../lib/basePath';
 
@@ -28,6 +34,7 @@ export type OptimizedImageProps = Omit<
   'alt' | 'fetchPriority' | 'height' | 'loading' | 'src' | 'width'
 > & {
   alt: string;
+  deferUntilNearViewport?: boolean;
   fetchPriority?: 'high' | 'low' | 'auto';
   height?: number;
   loading?: 'eager' | 'lazy';
@@ -45,6 +52,8 @@ const createSrcSet = (variants: ImageVariant[]) => {
 
 export const OptimizedImage = ({
   alt,
+  className,
+  deferUntilNearViewport = false,
   fetchPriority,
   height,
   loading,
@@ -55,14 +64,59 @@ export const OptimizedImage = ({
   width,
   ...imageProps
 }: OptimizedImageProps) => {
+  const placeholderRef = useRef<HTMLSpanElement>(null);
+  const [shouldRenderImage, setShouldRenderImage] = useState(
+    !deferUntilNearViewport,
+  );
   const manifestEntry = imageManifest[src];
   const resolvedStyle = objectFit ? { ...style, objectFit } : style;
+
+  useEffect(() => {
+    if (!deferUntilNearViewport || shouldRenderImage) {
+      return;
+    }
+
+    const placeholder = placeholderRef.current;
+
+    if (!placeholder || !('IntersectionObserver' in window)) {
+      setShouldRenderImage(true);
+      return;
+    }
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (!entries[0]?.isIntersecting) {
+          return;
+        }
+
+        setShouldRenderImage(true);
+        observer.disconnect();
+      },
+      { rootMargin: '600px 0px' },
+    );
+
+    observer.observe(placeholder);
+
+    return () => observer.disconnect();
+  }, [deferUntilNearViewport, shouldRenderImage]);
+
+  if (!shouldRenderImage) {
+    return (
+      <span
+        aria-hidden="true"
+        className={className}
+        ref={placeholderRef}
+        style={resolvedStyle}
+      />
+    );
+  }
 
   if (!manifestEntry) {
     return (
       <img
         {...imageProps}
         alt={alt}
+        className={className}
         fetchPriority={fetchPriority}
         height={height}
         loading={loading}
@@ -92,6 +146,7 @@ export const OptimizedImage = ({
       <img
         {...imageProps}
         alt={alt}
+        className={className}
         fetchPriority={fetchPriority}
         height={height ?? manifestEntry.height}
         loading={loading}
